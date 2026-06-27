@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Balakagitalapalli&color=blue)
 # Bala_kagitalapalli
 # Hi there, I'm Bala Kagitalapalli 👋
 
@@ -6,6 +7,16 @@
 I am a B.Tech Information Technology student passionate about building real-world web applications using modern technologies. I enjoy solving problems, learning new technologies, and creating scalable applications.
 
 ---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 
 ## 🚀 About Me
 
