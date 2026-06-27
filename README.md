@@ -20,32 +20,9 @@ I am a B.Tech Information Technology student passionate about building real-worl
 
 ## 🛠 Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- Python
-- C
-
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-
-### Database
-- MongoDB Atlas
-- MySQL
-
-### Tools
-- GitHub
-- VS Code
-- Vercel
-- Render
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,spring,html,css,tailwind,github,vscode,vercel,render" />
+</p>
 
 ---
 
