@@ -4,7 +4,7 @@
 
 ## 💻 Full Stack Developer | MERN Stack | Spring Boot
 
-I am a B.Tech Information Technology student passionate about building real-world web applications using modern technologies. I enjoy solving problems, learning new technologies, and creating scalable applications.
+I'm a B.Tech Information Technology student passionate about Full Stack Web Development. I build real-world applications using the MERN Stack and Spring Boot with a strong focus on clean UI, scalable backend systems, and practical problem-solving. Currently exploring Data Structures & Algorithms while preparing for Software Engineering roles.
 
 ---
 
